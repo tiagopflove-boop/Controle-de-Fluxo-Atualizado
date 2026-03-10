@@ -1,0 +1,2237 @@
+﻿[
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\devsense.phptools-vscode-1.12.10049-win32-x64\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\golang.go-0.52.2-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\llvm-vs-code-extensions.vscode-clangd-0.4.0-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\meta.pyrefly-0.9.0-win32-x64\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\ms-python.debugpy-2024.0.0-win32-x64\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\ms-python.python-2026.2.0-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\ms-python.vscode-python-envs-1.20.1-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\redhat.java-1.12.0-win32-x64\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\shopify.ruby-lsp-0.10.0-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-gradle-3.17.2-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-java-debug-0.58.5-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-java-dependency-0.27.0-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-java-pack-0.30.5-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-java-test-0.44.0-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\.antigravity\\extensions\\vscjava.vscode-maven-0.45.1-universal\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\accepts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\agent-base\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ansi-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ansi-styles\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\array-flatten\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\autoprefixer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\balanced-match\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\base64-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\baseline-browser-mapping\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\better-sqlite3\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\bignumber.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\bindings\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\bl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\body-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\brace-expansion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\browserslist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\buffer-equal-constant-time\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\bytes\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\call-bind-apply-helpers\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\call-bound\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\caniuse-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\chownr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\clsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\color-convert\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\color-name\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\content-disposition\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\content-type\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\convert-source-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\cookie\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\cookie-signature\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\cross-spawn\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-array\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-color\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-ease\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-format\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-interpolate\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-path\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-scale\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-shape\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-time\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-time-format\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\d3-timer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\data-uri-to-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\date-fns\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\debug\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\decimal.js-light\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\decompress-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\deep-extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\depd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\destroy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\detect-libc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\dotenv\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\dunder-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\eastasianwidth\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ecdsa-sig-formatter\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ee-first\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\electron-to-chromium\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\emoji-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\encodeurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\end-of-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\enhanced-resolve\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\es-define-property\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\es-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\es-object-atoms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\es-toolkit\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\esbuild\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\escalade\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\escape-html\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\etag\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\eventemitter3\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\expand-template\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\express\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\fdir\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\fetch-blob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\file-uri-to-path\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\finalhandler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\foreground-child\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\formdata-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\forwarded\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\fraction.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\framer-motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\fresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\fs-constants\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\function-bind\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\gaxios\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\gcp-metadata\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\gensync\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\get-intrinsic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\get-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\get-tsconfig\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\github-from-package\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\glob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\google-auth-library\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\google-logging-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\gopd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\graceful-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\has-symbols\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\hasown\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\http-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\https-proxy-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\iconv-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ieee754\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\immer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\inherits\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ini\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\internmap\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ipaddr.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\is-fullwidth-code-point\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\isexe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\jackspeak\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\jiti\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\js-tokens\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\jsesc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\json-bigint\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\json5\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\jwa\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\jws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\lightningcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\lightningcss-win32-x64-msvc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\long\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\lru-cache\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\lucide-react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\magic-string\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\math-intrinsics\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\media-typer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\merge-descriptors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\methods\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\mime\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\mime-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\mime-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\mimic-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\minimatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\minimist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\minipass\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\mkdirp-classic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\motion-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\motion-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\nanoid\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\napi-build-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\negotiator\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\node-abi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\node-domexception\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\node-fetch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\node-releases\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\object-inspect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\on-finished\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\once\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\p-retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\package-json-from-dist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\parseurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\path-key\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\path-scurry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\path-to-regexp\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\picocolors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\picomatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\postcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\postcss-value-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\prebuild-install\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\protobufjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\proxy-addr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\pump\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\qs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\range-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\raw-body\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\rc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\react-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\react-is\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\react-redux\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\react-refresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\readable-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\recharts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\redux\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\redux-thunk\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\reselect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\resolve-pkg-maps\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\rimraf\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\rollup\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\safe-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\safer-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\scheduler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\semver\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\send\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\serve-static\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\setprototypeof\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\shebang-command\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\shebang-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\side-channel\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\side-channel-list\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\side-channel-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\side-channel-weakmap\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\signal-exit\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\simple-concat\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\simple-get\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\source-map-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\statuses\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\string-width\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\string-width-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\string_decoder\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\strip-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\strip-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\strip-json-comments\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tailwind-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tailwindcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tapable\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tar-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tar-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tiny-invariant\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tinyglobby\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\toidentifier\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tslib\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\tunnel-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\type-is\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\typescript\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\undici-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\unpipe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\update-browserslist-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\use-sync-external-store\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\util-deprecate\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\utils-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\vary\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\victory-vendor\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\vite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\web-streams-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\which\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\wrap-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\wrap-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\wrappy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\ws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\node_modules\\yallist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\APP CONTROLE DE FLUXO\\src\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\accepts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\agent-base\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ansi-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ansi-styles\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\array-flatten\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\autoprefixer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\balanced-match\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\base64-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\baseline-browser-mapping\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\better-sqlite3\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\bignumber.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\bindings\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\bl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\body-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\brace-expansion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\browserslist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\buffer-equal-constant-time\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\bytes\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\call-bind-apply-helpers\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\call-bound\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\caniuse-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\chownr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\clsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\color-convert\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\color-name\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\content-disposition\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\content-type\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\convert-source-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\cookie\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\cookie-signature\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\cross-spawn\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-array\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-color\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-ease\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-format\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-interpolate\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-path\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-scale\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-shape\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-time\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-time-format\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\d3-timer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\data-uri-to-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\date-fns\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\debug\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\decimal.js-light\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\decompress-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\deep-extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\depd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\destroy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\detect-libc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\dotenv\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\dunder-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\eastasianwidth\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ecdsa-sig-formatter\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ee-first\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\electron-to-chromium\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\emoji-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\encodeurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\end-of-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\enhanced-resolve\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\es-define-property\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\es-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\es-object-atoms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\es-toolkit\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\esbuild\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\escalade\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\escape-html\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\etag\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\eventemitter3\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\expand-template\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\express\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\fdir\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\fetch-blob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\file-uri-to-path\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\finalhandler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\foreground-child\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\formdata-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\forwarded\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\fraction.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\framer-motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\fresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\fs-constants\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\function-bind\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\gaxios\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\gcp-metadata\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\gensync\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\get-intrinsic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\get-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\get-tsconfig\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\github-from-package\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\glob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\google-auth-library\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\google-logging-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\gopd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\graceful-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\has-symbols\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\hasown\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\http-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\https-proxy-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\iconv-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ieee754\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\immer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\inherits\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ini\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\internmap\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ipaddr.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\is-fullwidth-code-point\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\isexe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\jackspeak\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\jiti\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\js-tokens\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\jsesc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\json-bigint\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\json5\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\jwa\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\jws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\lightningcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\lightningcss-win32-x64-msvc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\long\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\lru-cache\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\lucide-react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\magic-string\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\math-intrinsics\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\media-typer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\merge-descriptors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\methods\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\mime\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\mime-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\mime-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\mimic-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\minimatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\minimist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\minipass\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\mkdirp-classic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\motion-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\motion-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\nanoid\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\napi-build-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\negotiator\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\node-abi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\node-domexception\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\node-fetch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\node-releases\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\object-inspect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\on-finished\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\once\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\p-retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\package-json-from-dist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\parseurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\path-key\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\path-scurry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\path-to-regexp\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\picocolors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\picomatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\postcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\postcss-value-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\prebuild-install\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\protobufjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\proxy-addr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\pump\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\qs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\range-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\raw-body\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\rc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\react-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\react-is\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\react-redux\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\react-refresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\readable-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\recharts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\redux\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\redux-thunk\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\reselect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\resolve-pkg-maps\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\rimraf\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\rollup\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\safe-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\safer-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\scheduler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\semver\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\send\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\serve-static\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\setprototypeof\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\shebang-command\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\shebang-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\side-channel\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\side-channel-list\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\side-channel-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\side-channel-weakmap\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\signal-exit\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\simple-concat\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\simple-get\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\source-map-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\statuses\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\string-width\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\string-width-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\string_decoder\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\strip-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\strip-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\strip-json-comments\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tailwind-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tailwindcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tapable\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tar-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tar-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tiny-invariant\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tinyglobby\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\toidentifier\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tslib\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\tunnel-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\type-is\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\typescript\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\undici-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\unpipe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\update-browserslist-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\use-sync-external-store\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\util-deprecate\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\utils-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\vary\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\victory-vendor\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\vite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\web-streams-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\which\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\wrap-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\wrap-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\wrappy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\ws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\node_modules\\yallist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\Documents\\Criaçao de APP\\src\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\accepts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\agent-base\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ansi-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ansi-styles\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\array-flatten\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\astral-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\at-least-node\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\autoprefixer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\balanced-match\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\base64-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\baseline-browser-mapping\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\better-sqlite3\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\big-integer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\bignumber.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\bindings\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\bl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\body-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\bplist-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\brace-expansion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\browserslist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\buffer-crc32\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\buffer-equal-constant-time\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\bytes\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\call-bind-apply-helpers\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\call-bound\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\caniuse-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\chownr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\clsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\color-convert\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\color-name\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\commander\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\content-disposition\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\content-type\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\convert-source-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\cookie\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\cookie-signature\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\cross-spawn\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\data-uri-to-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\debug\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\decompress-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\deep-extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\define-lazy-prop\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\depd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\destroy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\detect-libc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\dotenv\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\dunder-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\eastasianwidth\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ecdsa-sig-formatter\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ee-first\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\electron-to-chromium\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\elementtree\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\emoji-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\encodeurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\end-of-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\enhanced-resolve\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\env-paths\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\es-define-property\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\es-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\es-object-atoms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\esbuild\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\escalade\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\escape-html\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\etag\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\expand-template\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\express\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\extend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fd-slicer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fdir\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fetch-blob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\file-uri-to-path\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\finalhandler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\foreground-child\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\formdata-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\forwarded\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fraction.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\framer-motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fs-constants\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\fs-extra\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\function-bind\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\gaxios\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\gcp-metadata\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\gensync\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\get-intrinsic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\get-proto\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\get-tsconfig\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\github-from-package\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\glob\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\google-auth-library\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\google-logging-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\gopd\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\graceful-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\has-symbols\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\hasown\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\http-errors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\https-proxy-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\iceberg-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\iconv-lite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ieee754\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\inherits\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ini\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ipaddr.js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\is-docker\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\is-fullwidth-code-point\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\is-wsl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\isexe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jackspeak\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jiti\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\js-tokens\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jsesc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\json-bigint\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\json5\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jsonfile\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jwa\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\jws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\kleur\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\leaflet\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\lightningcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\lightningcss-win32-x64-msvc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\lodash\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\long\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\lru-cache\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\lucide-react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\magic-string\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\math-intrinsics\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\media-typer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\merge-descriptors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\methods\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\mime\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\mime-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\mime-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\mimic-response\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\minimatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\minimist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\minipass\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\minizlib\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\mkdirp-classic\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\motion\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\motion-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\motion-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ms\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\nanoid\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\napi-build-utils\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\native-run\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\negotiator\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\node-abi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\node-domexception\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\node-fetch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\node-releases\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\object-inspect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\on-finished\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\once\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\open\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\p-retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\package-json-from-dist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\parseurl\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\path-key\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\path-scurry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\path-to-regexp\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\pend\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\picocolors\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\picomatch\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\plist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\point-in-polygon-hao\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\polyclip-ts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\postcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\postcss-value-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\prebuild-install\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\prompts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\protobufjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\proxy-addr\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\pump\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\qs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\quickselect\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\range-parser\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\raw-body\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\rbush\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\rc\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\react\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\react-dom\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\react-leaflet\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\react-refresh\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\readable-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\resolve-pkg-maps\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\retry\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\rimraf\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\robust-predicates\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\rollup\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\safe-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\safer-buffer\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\sax\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\scheduler\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\semver\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\send\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\serve-static\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\setprototypeof\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\shebang-command\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\shebang-regex\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\side-channel\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\side-channel-list\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\side-channel-map\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\side-channel-weakmap\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\signal-exit\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\simple-concat\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\simple-get\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\sisteransi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\slice-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\source-map-js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\splaytree-ts\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\split2\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\statuses\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\string-width\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\string-width-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\string_decoder\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\strip-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\strip-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\strip-json-comments\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\sweepline-intersections\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tailwind-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tailwindcss\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tapable\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tar\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tar-fs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tar-stream\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\through2\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tinyglobby\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tinyqueue\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\toidentifier\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tree-kill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tslib\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tsx\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\tunnel-agent\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\type-is\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\typescript\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\undici-types\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\universalify\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\unpipe\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\untildify\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\update-browserslist-db\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\util-deprecate\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\utils-merge\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\vary\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\vite\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\web-streams-polyfill\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\which\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\wrap-ansi\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\wrap-ansi-cjs\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\wrappy\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\ws\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\xml2js\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\xmlbuilder\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\yallist\\package.json"
+    },
+    {
+        "FullName":  "C:\\Users\\Tiago\\OneDrive\\maps apk\\node_modules\\yauzl\\package.json"
+    }
+]
