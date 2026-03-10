@@ -17,6 +17,10 @@ export default function ThemeSettings({ theme, setTheme, customBg, setCustomBg }
     const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
         const file = e.target.files?.[0];
         if (file) {
+            if (file.size > 2 * 1024 * 1024) { // 2MB limit
+                alert("A imagem de fundo é muito grande. Escolha uma imagem menor que 2MB.");
+                return;
+            }
             const reader = new FileReader();
             reader.onloadend = () => {
                 const base64String = reader.result as string;

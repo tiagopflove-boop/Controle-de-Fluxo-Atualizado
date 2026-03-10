@@ -14,8 +14,8 @@ export default function UserAvatar({ avatar, setAvatar, theme }: Props) {
     const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
         const file = e.target.files?.[0];
         if (file) {
-            if (file.size > 1024 * 1024) { // 1MB limit for localStorage
-                alert("A imagem é muito grande. Escolha uma imagem menor que 1MB.");
+            if (file.size > 2 * 1024 * 1024) { // 2MB limit
+                alert("A imagem é muito grande. Escolha uma imagem menor que 2MB.");
                 return;
             }
             const reader = new FileReader();

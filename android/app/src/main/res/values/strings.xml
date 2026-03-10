@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FluxoControl</string>
+    <string name="title_activity_main">FluxoControl</string>
+    <string name="package_name">com.fluxocontrol.app</string>
+    <string name="custom_url_scheme">com.fluxocontrol.app</string>
+</resources>
