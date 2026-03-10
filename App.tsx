@@ -304,7 +304,7 @@ export default function App() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
             <div className="flex items-center justify-between mb-4">
-              <span className="text-sm font-medium text-zinc-500">Entradas</span>
+              <span className={cn("text-sm font-medium", theme === 'light' ? "text-zinc-500" : "text-zinc-400")}>Entradas</span>
               <ArrowUpCircle className="text-emerald-500" size={24} />
             </div>
             <p className={cn("text-2xl font-bold", theme === 'light' ? "text-zinc-900" : "text-white")}>
@@ -314,7 +314,7 @@ export default function App() {
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
             <div className="flex items-center justify-between mb-4">
-              <span className="text-sm font-medium text-zinc-500">Saídas</span>
+              <span className={cn("text-sm font-medium", theme === 'light' ? "text-zinc-500" : "text-zinc-400")}>Saídas</span>
               <ArrowDownCircle className="text-rose-500" size={24} />
             </div>
             <p className={cn("text-2xl font-bold", theme === 'light' ? "text-zinc-900" : "text-white")}>
