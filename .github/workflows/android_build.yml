@@ -39,12 +39,11 @@ jobs:
       - name: Install Capacitor CLI
         run: npm install @capacitor/cli @capacitor/android
 
-      - name: Sync Android
-        run: |
-          npx cap sync android
-
       - name: Build APK
         run: |
+          rm -rf android
+          npx cap add android
+          npx cap copy android
           cd android
           chmod +x gradlew
           ./gradlew assembleDebug --stacktrace
