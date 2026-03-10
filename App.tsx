@@ -43,6 +43,9 @@ import ThemeSettings, { ThemeType } from './components/ThemeSettings';
 import UserAvatar from './components/UserAvatar';
 
 import { cn } from './lib/utils';
+import { Capacitor } from '@capacitor/core';
+import { App as CapacitorApp } from '@capacitor/app';
+import { StatusBar, Style } from '@capacitor/status-bar';
 
 const CHART_COLORS = ['#10b981', '#3b82f6', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899', '#06b6d4', '#f97316'];
 
@@ -108,6 +111,41 @@ export default function App() {
       setLoadingData(false);
     }
   }, [session]);
+
+  // Mobile Optimizations (Status Bar & Back Button)
+  useEffect(() => {
+    if (Capacitor.isNativePlatform()) {
+      // 1. Sync Status Bar with Theme
+      const updateStatusBar = async () => {
+        try {
+          if (theme === 'dark') {
+            await StatusBar.setStyle({ style: Style.Dark });
+            await StatusBar.setBackgroundColor({ color: '#09090b' }); // zinc-950 approx
+          } else {
+            await StatusBar.setStyle({ style: Style.Light });
+            await StatusBar.setBackgroundColor({ color: '#ffffff' });
+          }
+        } catch (e) {
+          console.error('StatusBar error:', e);
+        }
+      };
+
+      updateStatusBar();
+
+      // 2. Handle Back Button
+      const backListener = CapacitorApp.addListener('backButton', ({ canGoBack }) => {
+        if (!canGoBack) {
+          CapacitorApp.exitApp();
+        } else {
+          window.history.back();
+        }
+      });
+
+      return () => {
+        backListener.then(l => l.remove());
+      };
+    }
+  }, [theme]);
 
   const fetchData = async () => {
     setLoadingData(true);
