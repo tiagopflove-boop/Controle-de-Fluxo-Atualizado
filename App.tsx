@@ -74,6 +74,9 @@ export default function App() {
   const [avatar, setAvatar] = useState<string | null>(() => {
     return localStorage.getItem('userAvatar');
   });
+  const [userName, setUserName] = useState<string>(() => {
+    return localStorage.getItem('userProfileName') || 'Usuário';
+  });
 
   useEffect(() => {
     localStorage.setItem('theme', theme);
@@ -88,6 +91,10 @@ export default function App() {
     if (avatar) localStorage.setItem('userAvatar', avatar);
     else localStorage.removeItem('userAvatar');
   }, [avatar]);
+
+  useEffect(() => {
+    localStorage.setItem('userProfileName', userName);
+  }, [userName]);
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
@@ -302,12 +309,19 @@ export default function App() {
           theme === 'light' ? "bg-white border-zinc-200" : "bg-black/20 backdrop-blur-xl border-white/10"
         )}
       >
-        <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center text-white">
-              <Wallet size={20} />
+        <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 h-18 py-3 flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <UserAvatar
+              avatar={avatar}
+              setAvatar={setAvatar}
+              theme={theme}
+              userName={userName}
+              setUserName={setUserName}
+            />
+            <div className="flex flex-col -space-y-1">
+              <span className={cn("text-[10px] font-bold uppercase tracking-wider opacity-50", theme === 'light' ? "text-zinc-500" : "text-white")}>Sistema</span>
+              <h1 className={cn("text-lg font-bold tracking-tight", theme === 'light' ? "text-zinc-900" : "text-white")}>FluxoControl</h1>
             </div>
-            <h1 className="text-xl font-bold tracking-tight text-zinc-900">FluxoControl</h1>
           </div>
 
           <div className="flex items-center gap-4">
@@ -316,14 +330,6 @@ export default function App() {
               setTheme={setTheme}
               customBg={customBg}
               setCustomBg={setCustomBg}
-            />
-
-            <div className="h-6 w-px bg-zinc-200" />
-
-            <UserAvatar
-              avatar={avatar}
-              setAvatar={setAvatar}
-              theme={theme}
             />
 
             <div className="hidden sm:flex text-sm font-medium text-zinc-500 items-center gap-2">
