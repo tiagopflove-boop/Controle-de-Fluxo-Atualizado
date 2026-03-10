@@ -24,8 +24,8 @@ jobs:
       - name: Build Web Project
         run: npm run build
         env:
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+          VITE_SUPABASE_URL: "https://ajocakqhywxnzzusyydv.supabase.co"
+          VITE_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFqb2Nha3FoeXd4bnp6dXN5eWR2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI0NjA5NzIsImV4cCI6MjA4ODAzNjk3Mn0.jMwmg89KqarlMBSzU8l1buhLZ__kwMIZQRzUiBllOBs"
 
       - name: Set up Java
         uses: actions/setup-java@v4
