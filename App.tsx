@@ -307,7 +307,7 @@ export default function App() {
               <span className="text-sm font-medium text-zinc-500">Entradas</span>
               <ArrowUpCircle className="text-emerald-500" size={24} />
             </div>
-            <p className="text-2xl font-bold text-zinc-900">
+            <p className={cn("text-2xl font-bold", theme === 'light' ? "text-zinc-900" : "text-white")}>
               {new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(totals.income)}
             </p>
           </motion.div>
@@ -317,7 +317,7 @@ export default function App() {
               <span className="text-sm font-medium text-zinc-500">Saídas</span>
               <ArrowDownCircle className="text-rose-500" size={24} />
             </div>
-            <p className="text-2xl font-bold text-zinc-900">
+            <p className={cn("text-2xl font-bold", theme === 'light' ? "text-zinc-900" : "text-white")}>
               {new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(totals.expense)}
             </p>
           </motion.div>
