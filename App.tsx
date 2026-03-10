@@ -302,7 +302,7 @@ export default function App() {
           theme === 'light' ? "bg-white border-zinc-200" : "bg-black/20 backdrop-blur-xl border-white/10"
         )}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center text-white">
               <Wallet size={20} />
@@ -338,8 +338,8 @@ export default function App() {
         </div>
       </header>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+      <main className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 mt-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
             <div className="flex items-center justify-between mb-4">
               <span className={cn("text-sm font-medium", theme === 'light' ? "text-zinc-500" : "text-zinc-400")}>Entradas</span>
@@ -378,7 +378,7 @@ export default function App() {
                 <PlusCircle size={20} className="text-emerald-600" />
                 Nova Transação
               </h2>
-              <form onSubmit={handleAddTransaction} className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <form onSubmit={handleAddTransaction} className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="space-y-1">
                   <label className="text-xs font-semibold text-zinc-500 uppercase tracking-wider">Descrição</label>
                   <input type="text" value={description} onChange={(e) => setDescription(e.target.value)} placeholder="Ex: Aluguel, Supermercado..." className={cn("w-full px-4 py-2 rounded-xl border focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 transition-all", theme === 'light' ? "border-zinc-200 bg-white" : "border-white/10 bg-white/5 text-white")} />
@@ -397,7 +397,7 @@ export default function App() {
                   <label className="text-xs font-semibold text-zinc-500 uppercase tracking-wider">Data</label>
                   <input type="date" value={date} onChange={(e) => setDate(e.target.value)} className={cn("w-full px-4 py-2 rounded-xl border focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 transition-all", theme === 'light' ? "border-zinc-200 bg-white" : "border-white/10 bg-white/5 text-white")} />
                 </div>
-                <div className="md:col-span-2 flex gap-4 pt-2">
+                <div className="sm:col-span-2 flex gap-4 pt-2">
                   <button type="button" onClick={() => { setType('income'); setCategoryId(CATEGORIES.find(c => c.type === 'income')?.id || ''); }} className={cn("flex-1 py-2 rounded-xl font-medium transition-all flex items-center justify-center gap-2 border", type === 'income' ? "bg-emerald-50 border-emerald-200 text-emerald-700" : "bg-white border-zinc-200 text-zinc-500 hover:bg-zinc-50")}>
                     <ArrowUpCircle size={18} /> Entrada
                   </button>
@@ -405,7 +405,7 @@ export default function App() {
                     <ArrowDownCircle size={18} /> Saída
                   </button>
                 </div>
-                <button type="submit" className="md:col-span-2 w-full bg-zinc-900 text-white py-3 rounded-xl font-semibold hover:bg-zinc-800 transition-all mt-2 shadow-lg shadow-zinc-200">
+                <button type="submit" className="sm:col-span-2 w-full bg-zinc-900 text-white py-3 rounded-xl font-semibold hover:bg-zinc-800 transition-all mt-2 shadow-lg shadow-zinc-200">
                   Adicionar Transação
                 </button>
               </form>
