@@ -40,6 +40,7 @@ import { supabase } from './lib/supabase';
 import Auth from './components/Auth';
 import FloatingExpenseSummary from './components/FloatingExpenseSummary';
 import ThemeSettings, { ThemeType } from './components/ThemeSettings';
+import UserAvatar from './components/UserAvatar';
 
 import { cn } from './lib/utils';
 
@@ -67,6 +68,9 @@ export default function App() {
   const [customBg, setCustomBg] = useState<string | null>(() => {
     return localStorage.getItem('customBg');
   });
+  const [avatar, setAvatar] = useState<string | null>(() => {
+    return localStorage.getItem('userAvatar');
+  });
 
   useEffect(() => {
     localStorage.setItem('theme', theme);
@@ -76,6 +80,11 @@ export default function App() {
     if (customBg) localStorage.setItem('customBg', customBg);
     else localStorage.removeItem('customBg');
   }, [customBg]);
+
+  useEffect(() => {
+    if (avatar) localStorage.setItem('userAvatar', avatar);
+    else localStorage.removeItem('userAvatar');
+  }, [avatar]);
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
@@ -269,6 +278,14 @@ export default function App() {
               setTheme={setTheme}
               customBg={customBg}
               setCustomBg={setCustomBg}
+            />
+
+            <div className="h-6 w-px bg-zinc-200" />
+
+            <UserAvatar
+              avatar={avatar}
+              setAvatar={setAvatar}
+              theme={theme}
             />
 
             <div className="hidden sm:flex text-sm font-medium text-zinc-500 items-center gap-2">
