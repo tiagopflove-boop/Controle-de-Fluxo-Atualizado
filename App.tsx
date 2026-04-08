@@ -309,7 +309,7 @@ export default function App() {
           theme === 'light' ? "bg-white border-zinc-200" : "bg-black/20 backdrop-blur-xl border-white/10"
         )}
       >
-        <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 h-18 py-3 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4 md:px-6 lg:px-8 h-18 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <UserAvatar
               avatar={avatar}
@@ -318,13 +318,13 @@ export default function App() {
               userName={userName}
               setUserName={setUserName}
             />
-            <div className="flex flex-col -space-y-1">
-              <span className={cn("text-[10px] font-bold uppercase tracking-wider opacity-50", theme === 'light' ? "text-zinc-500" : "text-white")}>Sistema</span>
-              <h1 className={cn("text-lg font-bold tracking-tight", theme === 'light' ? "text-zinc-900" : "text-white")}>FluxoControl</h1>
+            <div className={cn("flex flex-col -space-y-1 hidden min-[600px]:flex", theme === 'light' ? "text-zinc-900" : "text-white")}>
+              <span className="text-[10px] font-bold uppercase tracking-wider opacity-50">Sistema</span>
+              <h1 className="text-lg font-bold tracking-tight">FluxoControl</h1>
             </div>
           </div>
 
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-2 sm:gap-4">
             <ThemeSettings
               theme={theme}
               setTheme={setTheme}
@@ -332,21 +332,22 @@ export default function App() {
               setCustomBg={setCustomBg}
             />
 
-            <div className="hidden sm:flex text-sm font-medium text-zinc-500 items-center gap-2">
+            <div className="hidden lg:flex text-sm font-medium text-zinc-500 items-center gap-2">
               <Calendar size={16} />
               {format(new Date(), "MMMM 'de' yyyy", { locale: ptBR })}
             </div>
-            <div className="h-6 w-px bg-zinc-200" />
-            <button onClick={handleSignOut} className={cn("text-sm font-medium flex items-center gap-1 transition-colors", theme === 'light' ? "text-zinc-500 hover:text-zinc-900" : "text-white/60 hover:text-white")}>
-              <LogOut size={16} /> <span className="hidden sm:inline">Sair</span>
+            <div className="hidden sm:block h-6 w-px bg-zinc-200" />
+            <button onClick={handleSignOut} className={cn("text-sm font-medium flex items-center gap-1 transition-colors shrink-0", theme === 'light' ? "text-zinc-500 hover:text-zinc-900" : "text-white/60 hover:text-white")}>
+              <LogOut size={16} />
+              <span className="hidden lg:inline">Sair</span>
             </button>
           </div>
         </div>
       </header>
 
-      <main className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 mt-8">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
+      <main className="max-w-7xl mx-auto px-2 sm:px-4 md:px-6 lg:px-8 mt-6 sm:mt-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 mb-8">
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className={cn("p-4 sm:p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
             <div className="flex items-center justify-between mb-4">
               <span className={cn("text-sm font-medium", theme === 'light' ? "text-zinc-500" : "text-zinc-400")}>Entradas</span>
               <ArrowUpCircle className="text-emerald-500" size={24} />
@@ -356,7 +357,7 @@ export default function App() {
             </p>
           </motion.div>
 
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className={cn("p-4 sm:p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
             <div className="flex items-center justify-between mb-4">
               <span className={cn("text-sm font-medium", theme === 'light' ? "text-zinc-500" : "text-zinc-400")}>Saídas</span>
               <ArrowDownCircle className="text-rose-500" size={24} />
@@ -366,7 +367,7 @@ export default function App() {
             </p>
           </motion.div>
 
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className={cn("p-6 rounded-2xl border shadow-sm", balance >= 0 ? "bg-emerald-600 border-emerald-500 text-white" : "bg-rose-600 border-rose-500 text-white")}>
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className={cn("p-4 sm:p-6 rounded-2xl border shadow-sm", balance >= 0 ? "bg-emerald-600 border-emerald-500 text-white" : "bg-rose-600 border-rose-500 text-white")}>
             <div className="flex items-center justify-between mb-4">
               <span className="text-sm font-medium opacity-80">Saldo Total</span>
               <Wallet size={24} />
@@ -378,8 +379,8 @@ export default function App() {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-          <div className="lg:col-span-7 space-y-8">
-            <section className={cn("p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
+          <div className="lg:col-span-7 space-y-6 sm:space-y-8">
+            <section className={cn("p-4 sm:p-6 rounded-2xl border shadow-sm transition-all", theme === 'light' ? "bg-white border-zinc-200" : "bg-white/5 backdrop-blur-lg border-white/10")}>
               <h2 className="text-lg font-semibold mb-6 flex items-center gap-2">
                 <PlusCircle size={20} className="text-emerald-600" />
                 Nova Transação
@@ -445,7 +446,7 @@ export default function App() {
                                 <Icon size={20} />
                               </div>
                               <div>
-                                <p className={cn("font-semibold", theme === 'light' ? "text-zinc-900" : "text-white")}>{t.description}</p>
+                                <p className={cn("font-semibold truncate max-w-[120px] xs:max-w-none", theme === 'light' ? "text-zinc-900" : "text-white")}>{t.description}</p>
                                 <div className="flex items-center gap-2 text-xs text-zinc-500">
                                   <span className={cn("px-2 py-0.5 rounded-md", theme === 'light' ? "bg-zinc-100" : "bg-white/10 text-white/70")}>{t.category}</span>
                                   <span>•</span>
